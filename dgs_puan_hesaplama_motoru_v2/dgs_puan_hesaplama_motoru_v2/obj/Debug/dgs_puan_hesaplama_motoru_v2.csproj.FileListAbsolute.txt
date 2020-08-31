@@ -1,0 +1,10 @@
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\bin\Debug\dgs_puan_hesaplama_motoru_v2.exe.config
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\bin\Debug\dgs_puan_hesaplama_motoru_v2.exe
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\bin\Debug\dgs_puan_hesaplama_motoru_v2.pdb
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\obj\Debug\dgs_puan_hesaplama_motoru_v2.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\obj\Debug\dgs_puan_hesaplama_motoru_v2.Form1.resources
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\obj\Debug\dgs_puan_hesaplama_motoru_v2.Properties.Resources.resources
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\obj\Debug\dgs_puan_hesaplama_motoru_v2.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\obj\Debug\dgs_puan_hesaplama_motoru_v2.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\obj\Debug\dgs_puan_hesaplama_motoru_v2.exe
+C:\Users\Enes\Desktop\Çalışmalar\C#\dgs_puan_hesaplama_motoru_v2\dgs_puan_hesaplama_motoru_v2\obj\Debug\dgs_puan_hesaplama_motoru_v2.pdb
