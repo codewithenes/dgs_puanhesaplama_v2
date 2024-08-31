@@ -2,10 +2,8 @@
 DGS Puan Hesaplama Aracı V2
 
 
-DGS is an exam in Turkey. while I am studying DGS i have been using DGS Calculating websites maybe more than twice a day.
-The main problem was websites gave differents Marks when i tryin to get my calculated mark. After few times I decided to do an app
-which is gives the right marks then the other websites. I Hope gives you to right marks.
+DGS (Vertical Transfer Exam) is a significant test in Turkey. While preparing for it, I frequently used various DGS calculating websites—often more than twice a day. I noticed a recurring issue: these websites often provided inconsistent results when I calculated my marks.
 
+To address this problem, I decided to develop an app that delivers accurate marks, unlike the other websites. I hope it proves to be reliable for you.
 
-UPDATE: Lots of friend use that codes for learn their own marks but when they gave high Math and Language numbers like 35-38+ 
-they realize the calculator gave very high and unreal marks. with v2 this problem solved.
+UPDATE: Many of my friends have used this app to check their marks. However, they encountered a problem when entering high Math and Language scores (e.g., 35-38+). The initial versions of the calculator often produced unrealistically high results. This issue has been resolved in version 2 of the app.
